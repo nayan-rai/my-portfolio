@@ -3,7 +3,7 @@ import styled from 'styled-components';
 //import TwitterIcon from '@mui/icons-material/Twitter';
 //import LinkedInIcon from '@mui/icons-material/LinkedIn';
 //import InstagramIcon from '@mui/icons-material/Instagram';
-import { Bio } from '../../data/constants';
+//import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
   width: 100%;
@@ -66,16 +66,16 @@ const SocialMediaIcons = styled.div`
   margin-top: 1rem;
 `;
 
-const SocialMediaIcon = styled.a`
-  display: inline-block;
-  margin: 0 1rem;
-  font-size: 1.5rem;
-  color: ${({ theme }) => theme.text_primary};
-  transition: color 0.2s ease-in-out;
-  &:hover {
-    color: ${({ theme }) => theme.primary};
-  }
-`;
+// const SocialMediaIcon = styled.a`
+//   display: inline-block;
+//   margin: 0 1rem;
+//   font-size: 1.5rem;
+//   color: ${({ theme }) => theme.text_primary};
+//   transition: color 0.2s ease-in-out;
+//   &:hover {
+//     color: ${({ theme }) => theme.primary};
+//   }
+// `;
 
 const Copyright = styled.p`
   margin-top: 1.5rem;
