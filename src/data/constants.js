@@ -179,7 +179,15 @@ export const skills = [
         image:
           "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
       },
-   
+    {
+           name: "R Studio",
+           image:
+             "https://images.seeklogo.com/logo-png/43/1/r-studio-logo-png_seeklogo-431724.png",
+         }, {
+                   name: "Jupyter Notebook",
+                   image:
+                     "https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg",
+                 },
       {
         name: "Netlify",
         image:
