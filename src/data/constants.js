@@ -7,7 +7,7 @@ export const Bio = {
   description:
     "I'm an Associate Staff Engineer with a passion for designing and implementing robust, scalable backend systems. I excel at architecting clean, efficient solutions and have a proven track record in building distributed systems for diverse domains, including TeleCom, Aviation and Shipping & Logistics.",
   github: "https://github.com/nayan-rai",
-  resume: "https://docs.google.com/document/d/1c9_i1nfdQ7efR0R9Pn_1bQ-cJx9SdupT3f4fbQz15PY/edit?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1ehk7XQvhV2Cr4hao_usw9lhKFZMbamKt/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/nayanrai/",
   twitter: "https://twitter.com/Himmu_S03",
 /*  insta: "https://www.instagram.com/",
