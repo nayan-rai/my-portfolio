@@ -233,14 +233,17 @@ export const experiences = [
       "Spring boot",
       "Microservice",
       "Docker",
+      "Kubernetes",
       "Apache Kafka",
       "CI/CD Jenkins",
       "Junit",
       "JFrog",
-      "AWS",
       "Dbeaver",
       "Spark",
-      "R"
+      "R",
+      "Hazelcast",
+      "MariaDB",
+      "Maven"
     ],
   },
 
@@ -253,16 +256,21 @@ export const experiences = [
     desc: "Worked on the Shipping & Logistics products for Flipkart",
     skills: [
       "Java",
+      "Python",
+      "Ruby",
       "Spring boot",
+      "GCP",
       "Microservice",
       "Docker",
-      "Apache Camel",
+      "Kubernetes",
       "Apache Kafka",
       "CI/CD Jenkins",
       "Junit",
       "JFrog",
-      "AWS",
-      "Dbeaver"
+      "Dbeaver",
+      "Maven",
+      "Gradle",
+      "OpenAPI"
     ],
   },
   {
@@ -277,12 +285,11 @@ export const experiences = [
       "Spring boot",
       "Microservice",
       "Docker",
-      "AWS",
-      "Apache Camel",
-      "Apache Kafka",
+      "Kubernetes",
       "CI/CD Jenkins",
       "Junit",
-
+      "MySQL",
+      "Maven"
     ],
   
   },
