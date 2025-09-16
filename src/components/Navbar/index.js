@@ -33,8 +33,8 @@ const Navbar = () => {
           <GitHubButton href={Bio.github} target="_blank">Github Profile</GitHubButton>
         </ButtonContainer>
         <ButtonContainer>
-                  <GitHubButton href={Bio.linkedin} target="_blank">LinkedIn Profile</GitHubButton>
-                </ButtonContainer>
+          <GitHubButton href={Bio.linkedin} target="_blank">LinkedIn Profile</GitHubButton>
+        </ButtonContainer>
         {
           isOpen &&
           <MobileMenu isOpen={isOpen}>
@@ -55,6 +55,8 @@ const Navbar = () => {
             }}>Education</MobileLink>
             <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={
             Bio.github} target="_blank">Github Profile</GitHubButton>
+            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={
+                        Bio.linkedin} target="_blank">LinkedIn Profile</GitHubButton>
           </MobileMenu>
         }
       </NavbarContainer>
