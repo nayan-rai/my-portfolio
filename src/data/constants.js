@@ -285,7 +285,7 @@ export const education = [
 
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQGVF2qj__3qtg/company-logo_400_400/0/1646318126580?e=2147483647&v=beta&t=m_pWngulU4pmV7TEjPVS2V6BCiKactu8PRf0FGQoWwk",
+    img: "https://application.cdgi.edu.in/wp-content/uploads/2025/05/instituteIcon-1727433701622.png",
     school: "Chameli Devi Group Of Institutions, Indore",
     date: "May 2016 - May 2020",
     desc: "I have done my graducation in Bachelor's degree in Computer Science Engineering at Chameli Devi Group Of Institutions, Indore. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
@@ -294,7 +294,7 @@ export const education = [
 
   {
     id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KtCz4kQ5SEhlbeDe2DO8AuOxdyrW1UmrZKzsnwEfZcmcV0QNJsX2I82DZcfC_Oq_cow&usqp=CAU",
+    img: "https://media.9curry.com/uploads/organization/image/2618/thumb_mp-board-logo.png",
     school: "Adarsh Bal Vinay Mandir, Indore",
     date: "Apr 2017 - Mar 2018",
     desc: "I completed my class 12 high school education at Adarsh Bal Vinay Mandir, Indore, where I studied Science with Computer Science.",
@@ -303,7 +303,7 @@ export const education = [
 
   {
     id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6KtCz4kQ5SEhlbeDe2DO8AuOxdyrW1UmrZKzsnwEfZcmcV0QNJsX2I82DZcfC_Oq_cow&usqp=CAU",
+    img: "https://media.9curry.com/uploads/organization/image/2618/thumb_mp-board-logo.png",
     school: "Adarsh Bal Vinay Mandir, Indore",
     date: "Apr 2015 - Mar 2016",
     desc: "I completed my class 10 education at Adarsh Bal Vinay Mandir, Indore, where I studied Science with Computer Application.",
